@@ -1,0 +1,30 @@
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+ 
+ 
+}
+
+/* Add this to your CSS file or within a <style> tag in the HTML */
+body {
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+.carousel_section {
+    margin-bottom: 50px;
+}
+
+h4 {
+    font-size: 28px;
+}
+
+p {
+    font-size: 16px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
