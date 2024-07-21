@@ -3,10 +3,7 @@
     --bs-gutter-y: 0;
     display: flex;
     flex-wrap: wrap;
- 
- 
 }
-
 /* Add this to your CSS file or within a <style> tag in the HTML */
 body {
     overflow-x: hidden; /* Prevent horizontal scrolling */
